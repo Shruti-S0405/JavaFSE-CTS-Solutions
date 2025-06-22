@@ -32,7 +32,7 @@ public class Main {
 
     public static Product binarySearch(Product[] product, String name){
         int left = 0;
-        int right = product.length;
+        int right = product.length-1;
         while(left<=right){
             int mid = (left+right)/2;
             int cmp = name.compareToIgnoreCase(product[mid].productName);
