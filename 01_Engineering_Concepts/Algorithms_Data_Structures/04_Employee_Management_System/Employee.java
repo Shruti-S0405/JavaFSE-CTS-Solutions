@@ -1,5 +1,3 @@
-package Java_FSA;
-
 class Employee {
     int employeeId;
     String employeeName;

@@ -9,15 +9,6 @@ class Order implements Comparable{
         this.totalPrice = totalPrice; 
     }
 
-    public int compareTo(Object o){
-        Order order = null;
-        if(o instanceof Order){
-            order = (Order)o;
-        }
-        if(order == null) return 0;
-        return (int)(this.totalPrice - order.totalPrice);
-    }
-
     public String toString(){
         return "{ OrderId: "+orderId+", Customer Name: "+customerName+ ", Total price: "+totalPrice+" }";
     }
