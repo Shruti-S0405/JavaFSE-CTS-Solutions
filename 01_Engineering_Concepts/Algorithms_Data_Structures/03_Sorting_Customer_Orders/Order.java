@@ -1,4 +1,4 @@
-class Order implements Comparable{
+class Order{
     int orderId;
     String customerName;
     double totalPrice;
