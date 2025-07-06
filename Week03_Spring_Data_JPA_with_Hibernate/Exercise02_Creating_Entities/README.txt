@@ -1,0 +1,1 @@
+This folder contains the code for Exercise02 Creating Entities.

@@ -1,0 +1,1 @@
+This folder contains the code for Exercise07 Enabling Entity Auditing.
