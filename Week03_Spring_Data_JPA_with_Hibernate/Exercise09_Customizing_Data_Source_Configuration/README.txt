@@ -1,1 +1,0 @@
-This folder contains the code for Exercise09 Customizing Data Source Configuration.

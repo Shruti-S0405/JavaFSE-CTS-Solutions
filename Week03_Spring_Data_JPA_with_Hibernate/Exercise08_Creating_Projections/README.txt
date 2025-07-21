@@ -1,1 +1,0 @@
-This folder contains the code for Exercise08 Creating Projections.

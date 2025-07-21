@@ -1,1 +1,0 @@
-This folder contains the code for Exercise06 Implementing Pagination and Sorting.

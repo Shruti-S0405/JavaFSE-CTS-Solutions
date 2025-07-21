@@ -1,1 +1,0 @@
-This folder contains the code for Exercise04 Implementing CRUD Operations.

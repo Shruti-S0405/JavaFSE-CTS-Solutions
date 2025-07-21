@@ -1,1 +1,0 @@
-This folder contains the code for Exercise10 Hibernate Specific Features.
