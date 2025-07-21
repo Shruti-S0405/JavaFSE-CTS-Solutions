@@ -1,0 +1,50 @@
+# Maven target directory
+/target/
+
+# IntelliJ IDEA settings
+.idea/
+*.iml
+*.iws
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Eclipse files (if someone imports it later into Eclipse)
+.project
+.classpath
+.settings/
+
+# Build tools
+.gradle/
+build/
+
+# Dependency caches
+.mvn/
+!**/src/main/**/.keep
+!**/src/test/**/.keep
+
+# Environment/property files (optional: remove if you want to commit these)
+/.env
+.env.local
+application.properties
+application.yml
+
+# Java
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# VSCode (if you're also using it)
+.vscode/
+
+# Misc
+*.tmp
+*.bak
+*.swp
